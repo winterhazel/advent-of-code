@@ -1,4 +1,4 @@
-from ..get_input import get_input
+from get_input import get_input
 
 raw_input = get_input(1, 2022).strip()
 
